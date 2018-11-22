@@ -108,5 +108,10 @@ blockquote {
   html {
     font-size: 130%;
   }
+  article header {
+    border-bottom: 1px solid #999;
+    padding-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
 
 }
