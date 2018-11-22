@@ -106,13 +106,15 @@ blockquote {
 @media only screen and (min-width: 90em) {
 
   html {
-    font-size: 130%;
+    margin-left: 0;
+    font-size: 120%;
+    line-height: 1.5;
   }
 
   article header {
     border-bottom: 1px solid #999;
-    padding-top: 1.7rem;
-    margin-bottom: 1.7rem;
+    padding-top: 1.5rem;
+    margin-bottom: 1.5rem;
   }
 
 }
